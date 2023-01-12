@@ -19,7 +19,9 @@
 ## Weekly plan
 
 * Complete the weekly chapter on Codio (starting with chapter 1)
-  * Including finishing all assignments
+  * Including finishing all assignments (pass autograding)
+  * Watch videos on the resource list if needed
+* Note: some chapters include pre-requisite knowledge which should be learned, if needed, in addition to the knowledge in the chapter by using the Further resources list above (example: HTML, Git)
 * Recommended: work together in a pair
 
 ## Final projects
