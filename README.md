@@ -15,6 +15,8 @@
 
 * [Sign in to Codio](https://codio.com)
 * [Join the course](https://codio.com/p/signup?courseToken=signal-avalon)
+  + Please note that registering to the course bears a cost of 48$ for the semester but
+    that it contains all the teaching material that you will need
 
 ## Weekly plan
 
